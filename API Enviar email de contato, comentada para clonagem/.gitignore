@@ -1,0 +1,10 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+#env arquivo de configuração de variaveis de ambiente
+#.env
+# voce tem que coloca o .env no git ignore, para a pessoa que clonar os arquivos, nao fica com seu email e sua senha
