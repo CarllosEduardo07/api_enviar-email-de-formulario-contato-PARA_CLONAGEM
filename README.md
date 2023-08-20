@@ -13,10 +13,4 @@
 
 ``` $ npm install dotenv```
 
-#### sugestão de site para voce roda a api, render.com
-
-#### no site render o campo Build, voce tem que coloca o comando:
-``` $ npm install```
-
-#### no campo Start Command: 
-``` $ npm run start```
+#### sugestão de site para voce roda a API Node, [vercel.com](https://vercel.com/)
