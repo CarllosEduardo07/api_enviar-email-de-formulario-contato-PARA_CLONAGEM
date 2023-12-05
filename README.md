@@ -1,16 +1,26 @@
 # API_enviar-email-de-formulario-contato
 
-##api configurada para projeto em angular
+## API configurada para projeto em angular
 
-#### voce tem que instalar as dependencias 
-``` $ npm install```
+#### Dependencias:
+```bash 
+npm install
+```
 
-``` $ npm install express```
+```bash 
+npm install express
+```
 
-``` $ npm install nodemailer```
+```bash
+npm install nodemailer
+```
 
-``` $ npm install cors```
+```bash
+npm install cors
+```
 
-``` $ npm install dotenv```
+```bash
+npm install dotenv
+```
 
-#### sugestão de site para voce roda a API Node, [vercel.com](https://vercel.com/)
+#### Sugestão de site para voce roda a API Node, [vercel.com](https://vercel.com/)
